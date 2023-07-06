@@ -1,0 +1,16 @@
+{
+  "Name": "japanese",
+  "Authors": [
+    "2U_pikachu"
+  ],
+  "InterfaceLocales": [
+    "ja-JP",
+    "ja"
+  ],
+  "SystemLocales": [
+    "ja-JP"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

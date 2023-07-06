@@ -1,0 +1,13 @@
+マウス設定
+感度
+Aiming Sens. Reduction
+Raw入力
+Y軸反転
+While aiming down sights, mouse sensitivity is divided by the scope's zoom amount. Targets will always appear to move by the same distance on the screen in relation to your mouse movement. You can increase or decrease the intensity of the reduction by adjusting this setting.
+長押し
+切り替え
+Aim Down Sights - 入力方法
+ダッシュ - 入力方法
+Pickup Items - 入力方法
+しゃがみ - 入力方法
+Mouse Look - 入力方法

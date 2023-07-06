@@ -1,0 +1,94 @@
+新着
+プレイ
+設定
+終了
+SNS
+全世界
+お気に入り
+公式サーバー
+履歴
+フレンド
+検索...
+サーバーを作る
+再接続
+直接接続
+更新
+誰もいないサーバーは表示しない
+満員のサーバーは表示しない
+ホワイトリスト制は表示しない
+映像
+音声
+操作
+Gameplay
+その他
+ウインドウモード
+フルスクリーン
+ボーダーレスウインドウ
+最大化表示
+ウインドウ表示
+V-Sync
+FPS制限
+Off
+テクスチャ品質
+Decals
+影
+Shadow Resolution
+Shadow Distance
+モーションブラー
+Color Correction
+アンチエイリアシング
+Render Lights
+マスター
+効果音
+ボイスチャット
+メニュー音楽
+Interface Volume
+メニューテーマ
+Fast Intro Fade
+Head Bob
+Toggle Sprint
+Display Exact HP Value
+Rich Presence
+Public Lobby
+Toggle Search
+SCP-079 - Toggle View Mode
+SCP-079 - Post-Processing
+言語
+メインメニュー
+参加する
+戻る
+変更を適用するには再読み込みが必要です\n今すぐ読み込みますか?
+はい
+いいえ
+ゲームを終了します よろしいですか?
+Screen Resolution
+IPアドレスを隠す
+{username}さん おかえりなさい!
+クレジット
+AUTHENTICATING
+接続中...
+<color=green>接続されています</color>
+<color=red>接続に失敗しました (コンソールで詳細確認)</color>
+<color=red>Steam 認証に失敗しました (コンソールで詳細確認)</color>
+<color=red>Discord 認証に失敗しました (コンソールで詳細確認)</color>
+Disabled
+Seconds
+Ragdoll Cleanup Time
+Steamプロファイルを表示する
+Allows players to view your Steam profile by clicking an icon on the player list.
+Do Not Track (DNT)
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
+Graphics API
+ゲームから直接サーバーをホストすることはサポートされていません。\n代わりに以下の方法でSCP:SLサーバーを立てることが出来ます。\n- SCP:SLサーバー(Steam AppID: 996560)をダウンロードして任意のコンピューター上でホストする。\n- VPSをレンタルしてホストする。\n- SCP:SLをサポートしているゲームホスティングサービス(ZAP Hostingなど)を利用する。\n\n下のボタンより詳細が確認できます(英語)。\nメインメニューにあるDiscordリンクからサーバーの立て方についてのサポートを受けることが出来ます。
+とにかく続ける
+詳細
+サーバーをレンタルする
+キャンセル
+Seconds
+For playing our game!
+Flash Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights
+血表現
+字幕
+ガイド

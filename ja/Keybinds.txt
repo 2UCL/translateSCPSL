@@ -1,0 +1,39 @@
+射撃
+ズーム
+ジャンプ
+操作
+持ち物
+リロード
+ダッシュ
+ボイスチャット
+しゃがみ
+前進
+後退
+左
+右
+プレイヤーリスト
+役職の情報
+管理画面(RA)
+フラッシュライトの切替
+チームボイスチャット
+Noclip
+コンソール
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+GUIを隠す
+Toggle Noclip Fog
+Grenade Hotkey
+Pause Menu
+Debug Log
+視点切り替え
+ドアロック
+ロック全解除
+Blackout
+ロックダウン
+ピンを差す
+Breach Scanner
