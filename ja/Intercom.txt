@@ -1,8 +1,8 @@
-READY
-TRANSMITTING...\nTIME LEFT: {0}
-TRANSMITTING...\nBYPASS MODE
-RESTARTING\n{0}
-ADMIN IS USING\nTHE INTERCOM NOW
-YOU ARE MUTED BY ADMIN
-UNKNOWN
-PLEASE WAIT...
+準備完了
+放送中...\nあと {0} 秒
+放送中...\n時間制限なし
+次の放送可能まで\nあと {0} 秒
+管理者が使用しています
+あなたは利用できません
+不明
+お待ちください...

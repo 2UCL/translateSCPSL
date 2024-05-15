@@ -1,8 +1,8 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
-System
-Unbindable
+ゲームプレイ
+武器
+移動
+ホットキー
+コミュニケーション
+システム
+割り当て不可
 SCP-079
