@@ -26,14 +26,14 @@ SNS
 ボーダーレスウインドウ
 最大化表示
 ウインドウ表示
-垂直同期 V-Sync
+垂直同期 (V-Sync)
 FPS制限
 オフ
 テクスチャ品質
 Decals
 影
-Shadow Resolution
-Shadow Distance
+影の品質
+影の距離
 モーションブラー
 Color Correction
 アンチエイリアシング
@@ -46,7 +46,7 @@ Render Lights
 メニューテーマ
 Fast Intro Fade
 Head Bob
-Toggle Sprint
+走る の切替
 Display Exact HP Value
 Rich Presence
 Public Lobby
@@ -61,7 +61,7 @@ SCP-079 - Post-Processing
 はい
 いいえ
 ゲームを終了します よろしいですか?
-Screen Resolution
+画面解像度
 IPアドレスを隠す
 {username}さん おかえりなさい!
 クレジット
@@ -86,7 +86,7 @@ Graphics API
 キャンセル
 秒
 For playing our game!
-Flash Taskbar On Spawn
+スポーンした時にタスクバーを光らせる
 Ambient Occlusion
 Volumetric Lights
 血表現
