@@ -19,16 +19,16 @@ SNS
 映像
 音声
 操作
-Gameplay
+ゲームプレイ
 その他
 ウインドウモード
 フルスクリーン
 ボーダーレスウインドウ
 最大化表示
 ウインドウ表示
-V-Sync
+垂直同期 V-Sync
 FPS制限
-Off
+オフ
 テクスチャ品質
 Decals
 影
@@ -42,7 +42,7 @@ Render Lights
 効果音
 ボイスチャット
 メニュー音楽
-Interface Volume
+インターフェース
 メニューテーマ
 Fast Intro Fade
 Head Bob
@@ -71,20 +71,20 @@ AUTHENTICATING
 <color=red>接続に失敗しました (コンソールで詳細確認)</color>
 <color=red>Steam 認証に失敗しました (コンソールで詳細確認)</color>
 <color=red>Discord 認証に失敗しました (コンソールで詳細確認)</color>
-Disabled
-Seconds
+無効
+秒
 Ragdoll Cleanup Time
 Steamプロファイルを表示する
 Allows players to view your Steam profile by clicking an icon on the player list.
 Do Not Track (DNT)
 Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
 Graphics API
-ゲームから直接サーバーをホストすることはサポートされていません。\n代わりに以下の方法でSCP:SLサーバーを立てることが出来ます。\n- SCP:SLサーバー(Steam AppID: 996560)をダウンロードして任意のコンピューター上でホストする。\n- VPSをレンタルしてホストする。\n- SCP:SLをサポートしているゲームホスティングサービス(ZAP Hostingなど)を利用する。\n\n下のボタンより詳細が確認できます(英語)。\nメインメニューにあるDiscordリンクからサーバーの立て方についてのサポートを受けることが出来ます。
+ゲームから直接サーバーをホストすることはできません。\n代わりに以下の方法でSCP:SLサーバーを立てることが出来ます。\n- SCP:SLサーバー(Steam AppID: 996560)をダウンロードして任意のコンピューター上でホストする。\n- VPSをレンタルしてホストする。\n- SCP:SLをサポートしているゲームホスティングサービス(ZAP Hostingなど)を利用する。\n\n下のボタンより詳細が確認できます(英語)。\nメインメニューにあるDiscordリンクからサーバーの立て方についてのサポートを受けることが出来ます。
 とにかく続ける
 詳細
 サーバーをレンタルする
 キャンセル
-Seconds
+秒
 For playing our game!
 Flash Taskbar On Spawn
 Ambient Occlusion

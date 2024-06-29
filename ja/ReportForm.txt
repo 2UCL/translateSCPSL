@@ -1,7 +1,7 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking server rules
-Report for cheating or raiding
-REPORTING
-Please wait...
+プレイヤーを報告
+相手:\nプレイヤー ID:\n理由:
+やめる
+サーバールールの違反を報告
+チートを報告
+報告中
+しばらくお待ち下さい...

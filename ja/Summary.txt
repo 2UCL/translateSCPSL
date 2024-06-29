@@ -1,17 +1,19 @@
-The round has finished!
-SCPS WIN
-FOUNDATION WINS
-INSURGENCY WINS
-STALEMATE
-The escaped subjects have overrun the facility. Emergency response has been scrambled.
-All threats to safety have been neutralized. Site-02 is secure once again.
-Foundation presence has been exterminated. Operatives standing by for further orders.
-Site-02 is under certain control, but not without cost. The victor is undetermined.
-[summary_d_escaped] class-d escaped
-[summary_s_escaped] scientist(s) survived
-The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
-The Alpha Warhead was not detonated during this mission.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-[summary_scp_terminated] terminated SCPs
-Next round in [summary_next_round_countdown] seconds.
-The SCPs killed [summary_scpfrags] human beings.
+ラウンド終了!
+SCPの勝利
+財団の勝利
+カオスの勝利
+引き分け
+収容違反を起こしたSCPが施設を占拠、緊急対応が急がれている。
+安全を脅かす脅威はすべて排除され、サイト-02は再び安全を取り戻した。
+財団陣営の存在が排除され、反乱軍は今後の指令に備えて待機している。
+サイト-02は完全に支配下にあるが、犠牲がないわけではない。勝者は未定だ。
+[summary_d_escaped] 人のDクラス職員が脱走
+[summary_s_escaped] 人の研究員が生存
+Alpha Warheadの爆発により [summary_warhead_kills] の存在が終了された。
+この作戦では、Alpha Warheadは起爆されなかった。 
+作戦経過時間 [summary_round_minutes] 分 [summary_round_seconds] 秒
+[summary_scp_terminated] のSCPの存在が排除された。
+次のラウンドまで [summary_next_round_countdown] 秒
+SCPにより [summary_scpfrags]人が排除された。
+フラミンゴの勝利
+他チームは全滅。フラミンゴの完全勝利が達成された。

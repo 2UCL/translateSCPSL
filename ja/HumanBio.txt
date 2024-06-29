@@ -1,6 +1,6 @@
-Expendable inmates used by the Foundation to test anomalies. Their primary goal is to escape the facility, evading <color=#F00>SCPs</color> and <color=#0096FF>MTF</color>.\n<color=#008F1E>Chaos Insurgency</color> assist them in escaping.
-You will respawn soon.\nIn the meantime enjoy watching everything go wrong.
-Foundation personnel tasked with research of the anomalous objects. Their primary goal is to escape the facility, evading <color=#F00>SCPs</color> and <color=#008F1E>Chaos Insurgency</color>. <color=#0096FF>MTF</color> assist them in escaping.
-A member of an undercover organisation whose primary goal is to disrupt Foundation operations and utilise SCPs for their own advantage. They are tasked with eliminating <color=#FFFF7CFF>Scientists</color> and <color=#0096FF>Foundation Staff</color>, and escorting <color=#FF8E00>D-Class</color> to safety.
-A member of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to eliminate all <color=#F00>SCPs</color> and <color=#008F1E>Chaos Insurgency</color>, neutralize <color=#FF8E00>D-Class</color>, and escort <color=#FFFF7CFF>Scientists</color> to safety.
-A guard within the facility who's aim is to help any <color=#FFFF7CFF>Scientists</color> escape and stop the looming <color=#F00>SCP</color> threat. Cooperates with <color=#0096FF>MTF</color> to get this done while eliminating anyone or anything else that gets in the way.
+財団が変則的なテストを行うために使用する消耗品。彼らの主要目的は、<color=#F00>SCPs</color>と<color=#0096FF>MTF</color>の目をかいくぐり、施設を脱出することだ。<color=#008F1E>カオスインサージェンシー</color>が脱出を支援する。
+もうすぐリスポーンします。\nすべてが失敗へ向かう状況を楽しみましょう。
+異常物体の調査を任務とする財団職員。彼らの主要目標は、<color=#F00>SCPs</color>と<color=#008F1E>カオスインサージェンシー</color>を避け、施設から脱出することである。<color=#0096FF>MTF</color>が脱出を支援する。
+財団の活動を妨害し、自分たちの利益のためにSCPを利用することを主な目的とする秘密組織の一員。彼らは<color=#FFFF7F>科学者</color>や<color=#0096FF>財団職員</color>を排除し、<color=#FF8E00>Dクラス職員</color>を安全な場所に護送する任務を負っている。
+財団の安全を確保するため、収容違反に対応する精鋭部隊の一員。<color=#F00>SCPs</color>と<color=#008F1E>カオスインサージェンシー</color>を排除し、<color=#FF8E00>Dクラス職員</color>を無力化し、<color=#FFFF7F>科学者</color>を安全な場所に護送することが主な目標。
+施設警備員。<color=#FFFF7F>科学者たち</color>の脱出を助け、迫り来る<color=#F00>SCP</color>の脅威を抑えることを目的としている。<color=#0096FF>MTF</color>と協力し、障壁となるあらゆるものを排除しながら、任務を遂行する。

@@ -1,48 +1,49 @@
-VOICE VOLUME
-Yes
-FORCE START
+ボイス音量
+はい
+強制的に開始
 SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
-Invert Y-axis
-SUMMARY
-Cancel
-I N V E N T O R Y
-BRIGHTNESS
-SETTINGS
-DISCONNECT
-ALPHA WARHEAD IS DISABLED
-ACCESS DENIED
-VOICE CHAT
-INVENTORY OVERLOAD
-MOUSE SENSITIVITY
-HACKING
-PICKING UP...
+Y軸を反転する
+概要
+キャンセル
+イ ン ベ ン ト リ
+明るさ
+設定
+切断
+ALPHA WARHEADは使用不可
+アクセス拒否
+ボイスチャット
+インベントリーが満杯
+マウス感度
+ハッキング
+拾っています...
 Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
 [1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
 DOOR HAS BEEN LOCK-DOWN BY SCP-079
-Fullscreen mode
-Are you sure you want to leave the server?
-Basic options. Full list of settings in the menu.
-WAITING FOR PLAYERS
-SUMMARY
-CONTINUE
-MAIN VOLUME
-connected
-You escaped as a Scientist and joined the MTF units.
-You escaped as a Class D and joined the Chaos Insurgency.
-YOU ARE
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
-Wait [time] until you can use [item] again.
-Press <color=yellow><b>F1</b></color> for help.
-You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
-You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
-You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
-ROUND STARTS IN: <color=yellow>{0}</color>s
-ROUND START IS <color=#FF5050>PAUSED</color>
+フルスクリーンモード
+本当にサーバーから退出しますか？
+基本設定. Full list of settings in the menu.
+プレイヤーを待機中...
+概要
+続ける
+メイン音量
+人が待機しています
+あなたは研究員として脱出し、機動部隊に加わりました。
+あなたはDクラス職員として脱出し、カオスインサージェンシーに加わりました。
+あなたは
+脱出にかかった時間 [escape_minutes]分[escape_seconds]秒
+[time]後に[item]を再び使うことができます。
+<color=yellow><b>F1</b></color>で詳細なヘルプを表示します。
+あなたは拘束されています。\n<size=40>指示に従うか、助けを求めてください。</size>
+あなたは九尾狐に収容されました。\n施設内の脅威が一つ減ったので、彼らの作戦が容易になりました。
+あなたはカオス・インサージェンシーにより研究員として捕虜にされました。\n彼らはあなたの情報をもとに利益を得ました。
+ラウンド開始まで<color=yellow>{0}</color>秒
+ラウンド開始<color=#FF5050>ポーズ中</color>
 AIMING SENS. REDUCTION
-Press [key] to cancel the throw.
-ADS Toggle
-Mute Spectator Chat
-Enable Noise Reduction (recommended)
-Automatic (System Default)
-No Microphone Detected!
-INPUT DEVICE
+[key]を押して投げるのをやめる
+ADS 切り替え
+観戦者をミュートする
+ノイズ軽減を有効化(推奨)
+自動(システムのデフォルト)
+マイクが検出されません!
+入力デバイス
+[key]を押してろうそくを消す

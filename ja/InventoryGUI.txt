@@ -1,17 +1,17 @@
-Ammo {0}/{1} {2}
-Damage
-Fire Rate
-Hip Accuracy
-ADS Accuracy
-Weight
-Length
-DROP:
-Helmet Efficacy
-Vest Efficacy
-Stamina Usage
-Movement Speed
-Item Limits:
-Ammo Limits:
-{0} total
-Armor Penetration
-Running Accuracy
+弾薬 {0}/{1} {2}
+威力
+連射力
+腰だめ撃ちの精度
+ADS時の精度
+重量
+長さ
+落とす:
+ヘルメットの効力:
+アーマーの効力
+スタミナ消費量
+移動速度
+アイテム所持数制限:
+弾薬所持数制限:
+{0} 合計
+アーマー貫通力
+移動時精度

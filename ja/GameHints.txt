@@ -1,6 +1,6 @@
-<color=red>Access denied</color>
-Reached the limit of <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
-<b>Already</b> reached the limit of <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
-Reached the limit of <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
-<b>Already</b> reached the limit of <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
-Only <color=yellow>[max_item_count] items</color> can be carried.
+<color=red>アクセス拒否</color>
+<color=yellow>[type]弾</color>の弾数制限に達しました。(<color=yellow>[max_type_count]が上限</color>)。
+<b>すでに</b> <color=yellow>[type]弾</color>の弾数上限に達しています。 (<color=yellow>[max_type_count]が上限</color>)。
+<color=yellow>[type]</color>の上限に達しました。 (<color=yellow>[max_type_count]が上限</color>)。
+<b>すでに</b><color=yellow>[type]</color>の上限に達しています。 (<color=yellow>[max_type_count]が上限</color>)。
+<color=yellow>[max_item_count]個</color>のアイテムのみ持つことができます。

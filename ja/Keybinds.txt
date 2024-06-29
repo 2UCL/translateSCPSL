@@ -9,8 +9,8 @@
 しゃがみ
 前進
 後退
-左
-右
+左移動
+右移動
 プレイヤーリスト
 役職の情報
 管理画面(RA)
@@ -18,22 +18,22 @@
 チームボイスチャット
 Noclip
 コンソール
-Keycard Hotkey
-Inspect
-Cock Revolver
-Throw Item
-Primary Weapon Hotkey
-Secondary Weapon Hotkey
-Medical Hotkey
+キーカードホットキー
+眺める
+リボルバーのコック
+アイテムを投げる
+プライマリー火器のホットキー
+セカンダリー火器のホットキー
+医療系ホットキー
 GUIを隠す
-Toggle Noclip Fog
-Grenade Hotkey
-Pause Menu
-Debug Log
+ノークリップ暗視の切り替え
+グレネードホットキー
+ポーズメニュー
+デバックログ
 視点切り替え
 ドアロック
 ロック全解除
-Blackout
+停電
 ロックダウン
 ピンを差す
-Breach Scanner
+ブリーチスキャナー

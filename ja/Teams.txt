@@ -1,7 +1,7 @@
-SCP Subjects
-Foundation Forces
-Chaos Insurgency
-Scientists
-Class-D Personnel
-Dead
-Unclassified
+SCP 
+機動部隊
+カオスインサージェンシー
+研究員
+Dクラス職員
+死亡
+未分類
