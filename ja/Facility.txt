@@ -18,7 +18,7 @@ ALPHA WARHEADは使用不可
 拾っています...
 Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
 [1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
-DOOR HAS BEEN LOCK-DOWN BY SCP-079
+ドアは SCP-079 により閉鎖中
 フルスクリーンモード
 本当にサーバーから退出しますか？
 基本設定. Full list of settings in the menu.
@@ -26,7 +26,7 @@ DOOR HAS BEEN LOCK-DOWN BY SCP-079
 概要
 続ける
 メイン音量
-人が待機しています
+人が待機中
 あなたは研究員として脱出し、機動部隊に加わりました。
 あなたはDクラス職員として脱出し、カオスインサージェンシーに加わりました。
 あなたは
