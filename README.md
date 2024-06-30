@@ -1,7 +1,7 @@
 # Translate of SCP:SL (ja-jp)
 Steamにて無料で公開されているゲーム [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/) の日本語翻訳パッチです(非公式)。
 
-ゲームでどのように表示されるかを確認しながら翻訳作業を行っているため、比較的見やすいかと思われます。
+ゲーム内でどのように表示されるかを確認しながら翻訳作業を行っているため、比較的見やすいかと思われます。
 
 ## インストールの準備
 1. [Releases](https://github.com/2UCL/translateSCPSL/releases) から最新(Latest)の `ja.zip` をダウンロードします。
@@ -17,7 +17,7 @@ Steamにて無料で公開されているゲーム [SCP: Secret Laboratory](http
    > C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations\
    
    ![ファイル名を指定して実行ウィンドウ](/img/winR.png)
-0. 開いたフォルダにダウンロードした `ja` フォルダを入れる
+0. 開いたフォルダに準備した `ja` フォルダを入れる
    ![エクスプローラ](/img/install.png)
 0. SCP:SLを起動し、`Settings` → `Interface` → `Interface Language` から `Ja 日本語` を選択する
    ![ゲーム画面](/img/scpsl.png)
