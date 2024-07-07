@@ -1,17 +1,17 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-Class-D termination assist
-CI termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+補助電源
+エクスペリエンス
+カメラフィード・オンライン
+[キー]を押して監視マップを切り替える
+経験値を取得:
+協力作業
+Dクラス終了アシスト
+CI終了アシスト
+MTF終了アシスト
+科学者終了アシスト
+SCP終了アシスト
+ロックされたドア: [LOCKED_NUM]<size=25>右マウスボタンですべて解除</size>
+一般的なインタラクション
+あなたは攻撃されている！
+発電機がマップ上でハイライトされています
+危険
+SCPs{0}MTF＆ガード{1}科学者{2}クラスD{3}カオスインサージェンシー{4}

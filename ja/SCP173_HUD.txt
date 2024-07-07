@@ -1,5 +1,5 @@
-SCP-173's horrific appearance commands attention. Becoming extremely deadly when it isn't being observed, the Sculpture demands a witness at all times.
-Breakneck Speeds:All movement is greatly sped up, but you are unable to attack. You can cancel this ability at any time, but being seen will cancel it as well. Push forward, or get away in the blink of an eye.
-Blink:When the eye turns red, hold and move the image to a desired location. Release to teleport there, killing a human instantly if they’re at the targeted location. Onlookers who dare to blink in your presence will pay the price.
-Reinforced Concrete:Your concrete body stands strong against vandals. Low-penetration weapons deal severely reduced damage to your health. They can admire, but never touch.
-Tantrum:If unseen, you create a pool of filth which slows humans to a crawl. Having no admirers infuriates you; surely this should garner attention.
+SCP-173の恐ろしい外見は注目を集める。SCP-173は、視認されていない時には非常に致命的な存在となり、常に監視者を必要とする。
+猛烈な速度:すべての動きが大幅に速くなるが、攻撃はできない。この能力はいつでも解除できるが、視認されると解除される。突き進むもよし、瞬きする間に逃げるもよし。
+瞬き:視認者の目が乾燥したとき、そのままの状態で173像を好きな場所に移動させる。離すとそこにテレポートし、狙った場所に人間がいれば即死。あなたの前で瞬きをした野次馬は代償を払うことになる。
+強化コンクリート:コンクリートで作られた体は、敵にも強い。貫通力の低い武器は、体力へのダメージを著しく減少させる。彼らは鑑賞することはできても、決して触れることはできない。
+癇癪:人目につかなければ、あなたは汚物の池を作り出し、人間の動きを鈍らせる。鑑賞者が一人もいないことに激怒している。

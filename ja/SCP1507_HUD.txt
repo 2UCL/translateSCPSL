@@ -1,5 +1,5 @@
-Universally Hostile:Humans have nowhere to run. SCP-1507 instances can detect their targets through the environment.
-The Swarm:SCP-1507 instances will regenerate their health for as long as they remain in a flock.
-Peck:Sink your plastic beak into a target, inflicting deep wounds. You can forcefully open locked doors by pecking them.
-Vocalize:Let out a squawk, concussing nearby targets. The ability can be used to revive recently-deceased flamingos.
-Vocalize [key]
+普遍的な敵意:人間には逃げ場がない。SCP-1507個体群は、環境を通してターゲットを検知することができる。
+群れ:SCP-1507個体群は、群れにいる限り体力が回復する。
+ついばむ:プラスチックのくちばしを標的に突き刺し、深い傷を負わせる。鍵のかかったドアをつついて強制的に開けることができる。
+発声する:鳴き声を発し、近くの標的を震え上がらせる。この能力は、最近死んだフラミンゴを復活させるために使うことができる。
+発声する [key]
